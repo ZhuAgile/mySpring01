@@ -1,2 +1,3 @@
 # mySpring01
 spring AOP编程代码
+本项目是mySpring项目的继续，该项目中存放的是spring切面编程的相关代码，其中有AOP编程、jdk动态代理和cglib动态代理、spring整合mybatis、事务等代码
